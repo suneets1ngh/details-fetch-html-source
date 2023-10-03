@@ -1,0 +1,5 @@
+BeautifulSoup4
+Selenium
+webdriver_manager
+requests
+random
