@@ -1,5 +1,5 @@
 # details-fetch-html-source
 
-Scripts extracted the PII leakage vulnerabilities discovered in the source code of web pages.\n
+Scripts **extracted the PII information** leaked in the source code of web pages caused due to **Business Logic Flaws, Insecure Design**, and **Insecure Implementation**.
 
-Both the scripts are developed as POC exploit to help client understand the impact and how a malicious actor can automate the task of data extration and data storage through automation.
+Both scripts were developed as POCs to help understand the impact and how a malicious actor can automate the task of data extraction and data storage through automation.
